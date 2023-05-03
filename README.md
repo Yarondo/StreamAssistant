@@ -21,7 +21,7 @@ To use StreamAssistant, you'll need to install Python 3 and a few Python package
 
 ## Usage
 
-To use Chrome Audio Mute, follow these steps:
+To use StreamAssistant, follow these steps:
 
 1. Open a terminal window and navigate to the directory where you saved the `streamassistant.py` script.
 
